@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/persistirXML"
+        android:title="Persistir XML"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/persistirJSON"
+        android:title="Persistir JSON"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/ordenar_ascendente"
+        android:title="Ordenar Ascendente"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/ordenar_descendente"
+        android:title="Ordenar Descendente"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/exportar_pdf"
+        android:title="Exportar PDF"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/regresar"
+        android:title="Regresar"
+        app:showAsAction="never" />
+</menu>

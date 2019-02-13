@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">GACOSTA_REC</string>
+    <string name="btn_ingresar">Ingresar</string>
+    <string name="btn_registrar">Registrarse</string>
+    <string name="txt_usuario">Usuario</string>
+    <string name="txt_clave">Contraseña</string>
+    <string name="btn_guardar">Guardar</string>
+    <string name="btn_insertar">Nuevo</string>
+    <string name="btn_modificar">Modificar</string>
+    <string name="btn_eliminar">Eliminar</string>
+    <string name="txt_placa">Placa</string>
+    <string name="txt_marca">Marca</string>
+    <string name="txt_fexha">Fecha de Fabricacion</string>
+    <string name="txt_costo">Costo</string>
+    <string name="txt_matriculado">Matriculado</string>
+    <string name="txt_color">Color</string>
+    <string name="txt_vehiculo">Vehiculos</string>
+    <string name="txt_reserva">Reserva</string>
+    <string name="btn_tomar_foto">Tomar Foto</string>
+    <string name="btn_buscar">Buscar</string>
+    <string name="txt_busqueda">Ingrese la placa o numero de reserva</string>
+    <string name="btn_regresar">Regresar</string>
+    <string name="btn_validar">Registrar reserva</string>
+    <string name="txt_email">Email</string>
+    <string name="txt_celular">Celular</string>
+    <string name="txt_fecha_reserva">Fecha Reserva</string>
+    <string name="txt_fecha_entrega">Fecha de entrega</string>
+    <string name="btn_reservar">Reservar</string>
+    <string name="btn_buscar_placa">Buscar reserva por placa</string>
+    <string name="btn_buscar_numero_reserva">Buscar reserva por numero de reserva</string>
+    <string name="btn_descargar">Descargar en pdf</string>
+</resources>
